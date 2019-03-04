@@ -2,5 +2,9 @@
     "name": "Curb Your Chrome Extension",
     "version": "1.0",
     "description": "A button that plays the theme from HBO's \"Curb Your Enthusiasm\". Pairs especially well with a bald head, glasses, and habitually disastrous social interactions.",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
     "manifest_version": 2
 }
