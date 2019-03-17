@@ -1,0 +1,5 @@
+https://developer.chrome.com/extensions/getstarted
+
+https://stackoverflow.com/questions/27496465/how-can-i-play-sound-in-a-chrome-extension
+
+chrome://extensions/
